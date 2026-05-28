@@ -113,8 +113,12 @@ I specialize in architecting scalable, maintainable .NET-based solutions using *
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerahmedrabie&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerahmedrabie&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=developerahmedrabie&theme=gruvbox&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developerahmedrabie&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerahmedrabie&layout=compact&theme=gruvbox&hide_border=true" height="160" alt="Most Used Languages" />
 </p>
 
 ---
