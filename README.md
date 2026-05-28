@@ -117,7 +117,7 @@ I specialize in architecting scalable, maintainable .NET-based solutions using *
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developerahmedrabie&theme=gruvbox&no-frame=true&column=4&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerahmedrabie&theme=gruvbox" alt="Commit Activity" />
 </p>
 
 <p align="center">
