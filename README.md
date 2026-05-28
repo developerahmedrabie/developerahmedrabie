@@ -1,3 +1,51 @@
+<h1 align="center">Ahmed Aboelmagd</h1>
+
+<p align="center">
+  <code>Technical Manager · Solution Architect · 18+ years building scalable .NET systems for global enterprise clients</code>
+</p>
+
+<p align="center">
+  I architect and deliver large-scale enterprise software with a relentless focus on clean code, scalable design, and SOLID principles. I bridge technical execution and strategic leadership — managing engineering workflows across complex, multi-domain projects and turning business requirements into production-grade systems.
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedaboelmagd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Aboelmagd-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.ahmedaboelmagd.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ahmedaboelmagd.com-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:Developer.ahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Developer.ahmed%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🛠️ My Toolbox
+
+<p align="center">
+  <img width="40" height="40" title="HTML5"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+  <img width="40" height="40" title="CSS3"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
+  <img width="40" height="40" title="SCSS / Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />&nbsp;
+  <img width="40" height="40" title="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+  <img width="40" height="40" title="TypeScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
+  <img width="40" height="40" title="Angular"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />&nbsp;
+  <img width="40" height="40" title="React"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
+  <img width="40" height="40" title="Flutter"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />&nbsp;
+  <img width="40" height="40" title="Node.js"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;
+  <img width="40" height="40" title="C#"          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
+  <img width="40" height="40" title=".NET Core"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
+  <img width="40" height="40" title="Azure"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />&nbsp;
+  <img width="40" height="40" title="SQL Server"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;
+  <img width="40" height="40" title="Git"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
+  <img width="40" height="40" title="GitHub"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</p>
+
+<hr>
+
 <h1 align="center">
   Hi, I'm Ahmed Aboelmagd 👋
 </h1>
