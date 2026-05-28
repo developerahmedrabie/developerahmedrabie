@@ -132,3 +132,23 @@ I specialize in architecting scalable, maintainable .NET-based solutions using *
 <p align="center">
   <i>Open to consulting, architecture advisory, and senior technical leadership roles.</i>
 </p>
+
+---
+
+<details>
+  <summary>📖 Click to view my coding journey</summary>
+  <br>
+
+  Like most engineers, it started with a single HTML file and a browser that refreshed far too slowly.
+
+  My early years were spent mastering the fundamentals — semantic markup, cascading stylesheets, and the subtle art of making layouts that didn't collapse under pressure. SCSS became a turning point: it forced a disciplined, modular way of thinking about design systems that I carried into every layer of the stack afterward.
+
+  From there, the complexity scaled fast. JavaScript evolved into TypeScript. Simple pages became full Angular and React applications. Backend APIs grew into distributed systems built on ASP.NET Core, shaped by Clean Architecture, CQRS, and Domain-Driven Design — patterns that transform raw requirements into maintainable, enterprise-grade software.
+
+  Over 18+ years, I've delivered 20+ major projects for 40+ clients across government, finance, healthcare, and international markets. Each one taught me something no tutorial could: how to lead under real deadlines, architect under real constraints, and ship under real pressure.
+
+  Today I work at the intersection of technical depth and engineering leadership — designing scalable .NET systems, mentoring teams, and making sure the architecture decisions made today don't become tomorrow's technical debt.
+
+  The file still opens in a browser. The complexity is just a little different now.
+
+</details>
