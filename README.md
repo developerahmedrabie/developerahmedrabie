@@ -117,8 +117,12 @@ I specialize in architecting scalable, maintainable .NET-based solutions using *
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerahmedrabie&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerahmedrabie&layout=compact&theme=gruvbox&hide_border=true" height="160" alt="Most Used Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=developerahmedrabie&theme=gruvbox&no-frame=true&column=4&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developerahmedrabie&theme=gruvbox" height="160" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=developerahmedrabie&theme=gruvbox" height="160" alt="GitHub Stats" />
 </p>
 
 ---
